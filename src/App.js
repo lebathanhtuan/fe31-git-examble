@@ -5,7 +5,7 @@ import Main from "./Main";
 import Footer, { name, className } from "./Footer";
 
 function App() {
-  const content = "Hello, test git";
+  const content = "Hello, test git ahihi";
   return (
     <div className="wrapper">
       <Header />
